@@ -1,6 +1,6 @@
 # NI-6008-Voltage-Live-plotting
 
-Follow the Step by Step Instructions to Plot live voltage data from the NI-6008 Device or any other NI-Device
+Follow the Step by Step Instructions to Plot live voltage data from the NI-6008 Device or any other NI-Device using Python
 
 1. DownLoad The NI-DAQmx driver for your appropriate operating system (https://www.ni.com/en-in/support/downloads/drivers/download.ni-daqmx.html#291872) 
 
